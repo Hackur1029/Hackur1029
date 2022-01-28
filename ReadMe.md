@@ -1,4 +1,4 @@
-[![Hackur](banner.png)](https://hackur.netlify.com)
+[![Hackur](https://www.mediafire.com/view/8qsrw4112jzdy6c/banner.png/file)](https://hackur.netlify.com)
 
 <!-- GitHub stats -->
 <b>⚡ My Dev Statistics</b>
