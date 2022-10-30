@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://hackur.netlify.app" title="👋 Hey there, I am Hackur">
-        <img src="assets/torus.svg" />
+        <img src="torus.svg" />
     </a>
 </p>
 
