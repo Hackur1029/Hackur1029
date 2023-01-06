@@ -20,9 +20,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Hackur1029&theme=hacker&row=2&bg-color=000000&column=3&margin-w=15&margin-h=15" />
 </p>
 
-   <p align="center">
+   <div align="center">
         <a href="https://github.com/Hackur1029"><img src="snake.svg"></a>
-        </p>
+        </div>
+        
     <div align="center">
     <br><p align="centre"><b>Visit Counter</b></p>  
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Hackur1029}/count.svg" /></p> 
