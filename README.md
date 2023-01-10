@@ -8,15 +8,9 @@
             <p align="center">
               <img src=https://github-readme-streak-stats.herokuapp.com?user=Hackur1029&theme=hacker&date_format=M%20j%5B%2C%20Y%5D&background=000000 />
                 </p>
-        <div align="center">  
-      <img width="100%" height="120px" src="https://github-readme-stats.vercel.app/api?username=Hackur1029&show_icons=true&count_private=true&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=c9d1d9&bg_color=000000" alt="Hackur github stats" />
-<br> 
-      <img width="100%" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hackur1029&layout=compact&hide_border=true&title_color=00FF00&text_color=00FF00&bg_color=000000" />
-    </div>
     <p align="center"> 
     <a href="https://instagram.com/hac_kur0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
      </p>
-     
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Hackur1029&theme=hacker&row=2&bg-color=000000&column=3&margin-w=15&margin-h=15" />
 </p>
